@@ -41,8 +41,6 @@
 - Node.js (optional, for asset compilation)
 
 ### 📥 Installation
-
-    ```bash
     git clone https://github.com/your-username/course-craft.git
     cd course-craft
     composer install
@@ -52,8 +50,6 @@
     php artisan serve
 
 ### for npm-based assets
-
-    ```bash
     npm install
     npm run dev
     npm run build
