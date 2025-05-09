@@ -22,10 +22,10 @@
 ## Video Overview
 For a detailed walkthrough of the project, watch the video below:
 
-[**Watch Video Overview**](https://drive.google.com/file/d/1aNy2eDioihp-ON5XCO_9mHaFCVUoZ-6_/view)
+[**Watch Video Overview**](https://drive.google.com/file/d/1kN4wjjWKOVY4xXQjjD0ZzM7znYZAURx6/view?usp=sharing)
 ---
 ## Screenshot
-[**Create Form**](https://drive.google.com/file/d/1zrMAmggL_j8zk4XdrihEgcbWm_TCFq6Y/view?usp=sharing)
+[**Create Form**](https://drive.google.com/file/d/1zrMAmggL_j8zk4XdrihEgcbWm_TCFq6Y/view?usp=sharing), [**course table**](https://drive.google.com/file/d/1wStZda7hruhp-RPwik-wxkmi1j-eaKR0/view?usp=sharing)
 
 ## ⚙️ Project Setup Instructions
 
