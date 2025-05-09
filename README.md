@@ -19,12 +19,13 @@
 - 🎯 Clean & modern UI (professional design touch)
 
 ---
-## 🔗 Video overview
+## Video Overview
 For a detailed walkthrough of the project, watch the video below:
+
 [**Watch Video Overview**](https://drive.google.com/file/d/1aNy2eDioihp-ON5XCO_9mHaFCVUoZ-6_/view)
-[**Project Screenshot**](https://drive.google.com/file/d/1wStZda7hruhp-RPwik-wxkmi1j-eaKR0/view?usp=sharing)
-[**Project Screenshot**](https://drive.google.com/file/d/1zrMAmggL_j8zk4XdrihEgcbWm_TCFq6Y/view?usp=sharing)
 ---
+## Screenshot
+[**Create Form**](https://drive.google.com/file/d/1zrMAmggL_j8zk4XdrihEgcbWm_TCFq6Y/view?usp=sharing)
 
 ## ⚙️ Project Setup Instructions
 
