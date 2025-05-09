@@ -52,7 +52,7 @@
     php artisan serve
 
 ### for npm-based assets
-  
+
     ```bash
     npm install
     npm run dev
