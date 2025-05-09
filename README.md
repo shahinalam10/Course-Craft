@@ -42,11 +42,46 @@
 
 ### 📥 Installation
 
-```bash
-git clone https://github.com/your-username/course-craft.git
-cd course-craft
-composer install
-cp .env.example .env
-php artisan key:generate
-php artisan migrate
-php artisan serve
+    ```bash
+    git clone https://github.com/your-username/course-craft.git
+    cd course-craft
+    composer install
+    cp .env.example .env
+    php artisan key:generate
+    php artisan migrate
+    php artisan serve
+
+### for npm-based assets
+  
+    ```bash
+    npm install
+    npm run dev
+    npm run build
+    
+### 📁 Folder Structure Highlights
+    resources/views/
+    ├── layouts/
+    │   └── master.blade.php
+    ├── courses/
+    │   ├── create.blade.php
+    │   ├── index.blade.php
+    │   ├── show.blade.php
+    │   └── edit.blade.php
+    ├── home.blade.php
+    
+    app/
+    ├── Models/
+    │   ├── Course.php
+    │   ├── Module.php
+    │   └── Content.php
+    
+    app/Http/Controllers/
+    ├── CourseController.php
+
+### 🧠 Learning Outcome
+    -✔️ Nested form handling in Laravel with array inputs
+    -✔️ Real-time field validation using Bootstrap classes and JS
+    -✔️ Dynamic accordion creation and DOM manipulation via JavaScript
+    - ✔️ File upload handling with validation and storage
+    -✔️ Clean Laravel MVC structure and route organization
+    -✔️ Fully functional CRUD with pagination and search
