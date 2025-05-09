@@ -58,7 +58,7 @@
     npm run dev
     npm run build
     
-### 📁 Folder Structure Highlights
+## 📁 Folder Structure Highlights
     resources/views/
     ├── layouts/
     │   └── master.blade.php
@@ -78,8 +78,8 @@
     app/Http/Controllers/
     ├── CourseController.php
 
-### 🧠 Learning Outcome
-    -✔️ Nested form handling in Laravel with array inputs
+## 🧠 Learning Outcome
+   -✔️ Nested form handling in Laravel with array inputs
     -✔️ Real-time field validation using Bootstrap classes and JS
     -✔️ Dynamic accordion creation and DOM manipulation via JavaScript
     - ✔️ File upload handling with validation and storage
