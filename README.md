@@ -79,9 +79,9 @@
     ├── CourseController.php
 
 ## 🧠 Learning Outcome
-   -✔️ Nested form handling in Laravel with array inputs
-    -✔️ Real-time field validation using Bootstrap classes and JS
-    -✔️ Dynamic accordion creation and DOM manipulation via JavaScript
-    - ✔️ File upload handling with validation and storage
-    -✔️ Clean Laravel MVC structure and route organization
-    -✔️ Fully functional CRUD with pagination and search
+-✔️ Nested form handling in Laravel with array inputs
+-✔️ Real-time field validation using Bootstrap classes and JS
+-✔️ Dynamic accordion creation and DOM manipulation via JavaScript
+- ✔️ File upload handling with validation and storage
+-✔️ Clean Laravel MVC structure and route organization
+-✔️ Fully functional CRUD with pagination and search
