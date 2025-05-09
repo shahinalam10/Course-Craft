@@ -1,4 +1,4 @@
-# 🎯 Course Craft - Laravel Course Builder
+# 🎯 Project:  Course Craft -
 
 **Course Craft** is a dynamic Laravel 12 application that allows users to create structured online courses with multiple modules and nested contents. Designed with usability and scalability in mind, this project showcases professional CRUD functionality and interactive UI using Bootstrap 5.
 
@@ -25,7 +25,7 @@ For a detailed walkthrough of the project, watch the video below:
 [**Watch Video Overview**](https://drive.google.com/file/d/1kN4wjjWKOVY4xXQjjD0ZzM7znYZAURx6/view?usp=sharing)
 ---
 ## Screenshot
-[**Create Form**](https://drive.google.com/file/d/1zrMAmggL_j8zk4XdrihEgcbWm_TCFq6Y/view?usp=sharing), [**course table**](https://drive.google.com/file/d/1wStZda7hruhp-RPwik-wxkmi1j-eaKR0/view?usp=sharing)
+[**Create Form**](https://drive.google.com/file/d/1zrMAmggL_j8zk4XdrihEgcbWm_TCFq6Y/view?usp=sharing), [**course table**](https://drive.google.com/file/d/1wStZda7hruhp-RPwik-wxkmi1j-eaKR0/view?usp=sharing), [**View all**](https://drive.google.com/file/d/17rH1gi1V6EddbB0DuuivTUsY9LqoaJZP/view?usp=sharing)
 
 ## ⚙️ Project Setup Instructions
 
