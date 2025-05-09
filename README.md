@@ -26,7 +26,7 @@
 
 | Create Course | Course List |
 |---------------|-------------|
-| ![Create](screenshots/create-form.png) | ![List](screenshots/course-list.png) |
+| ![Create]([screenshots/create-form.png](https://drive.google.com/file/d/1wStZda7hruhp-RPwik-wxkmi1j-eaKR0/view)) | ![List](https://drive.google.com/file/d/1zrMAmggL_j8zk4XdrihEgcbWm_TCFq6Y/view?usp=sharing) |
 
 ---
 
